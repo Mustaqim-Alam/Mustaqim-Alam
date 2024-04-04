@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@_mohd_mustaqim" target="blank"><img src="https://img.shields.io/twitter/follow/@_mohd_mustaqim?logo=twitter&style=for-the-badge" alt="@_mohd_mustaqim" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS , NodeJS**
+- 🌱 I’m currently learning **Full-Stack**
 
 - 💬 Ask me about **JavaScript, SQL , DBMS , HTML , CSS**
 
