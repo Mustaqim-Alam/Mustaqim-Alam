@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@_mohd_mustaqim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@_mohd_mustaqim" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md mustaqim alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md mustaqim alam" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/md mustaqim alam](http://linkedin.com/in/md-mustaqim-alam)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md mustaqim alam" height="30" width="40" /></a>
 <a href="https://fb.com/mustaqim alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mustaqim alam" height="30" width="40" /></a>
 <a href="https://instagram.com/im._mustaqim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im._mustaqim" height="30" width="40" /></a>
 </p>
