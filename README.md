@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Mustaqim Alam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustaqim-alam&label=Profile%20views&color=0e75b6&style=flat" alt="mustaqim-alam" /> </p>
 
@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/_immustaqim_" target="blank"><img src="https://img.shields.io/twitter/follow/_immustaqim_?logo=twitter&style=for-the-badge" alt="_immustaqim_" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS , NodeJS**
+- 🔭 I’m currently working on [ECommerce](https://ecommerce-frontend-mocha-three.vercel.app/)
 
-- 💬 Ask me about **JavaScript, SQL , DBMS , HTML , CSS**
+- 🌱 I’m currently learning **Full Stack Development**
+
+- 💬 Ask me about **MERN, JavaScript, SQL , DBMS , HTML , CSS**
 
 - 📫 How to reach me **@mustaqimalam85@gmail.com**
 
