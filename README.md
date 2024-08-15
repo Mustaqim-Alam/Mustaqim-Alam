@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **MERN, JavaScript, SQL , DBMS , HTML , CSS**
+- 💬 Ask me about **MERN, JavaScript, NoSQL , DBMS , HTML , CSS**
 
 - 📫 How to reach me **@mustaqimalam85@gmail.com**
 
