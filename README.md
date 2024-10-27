@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Full Stack Development<br><br>💬 Ask me about MERN, JavaScript, NoSQL , DBMS , HTML , CSS<br><br>📫 How to reach me: @mustaqimalam85@gmail.com
+🌱 I’m currently learning Full Stack Development<br><br>💬 Ask me about MERN, JavaScript, NoSQL , DBMS , HTML , CSS👨‍💻<br><br>📫 How to reach me: @mustaqimalam85@gmail.com
 
 
 ## 🌐 Socials:
