@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I’m **Md Mustaqim Alam**, a **MERN Stack Developer** who enjoys building full-stack web applications using modern JavaScript technologies.
+I’m **Md Mustaqim Alam**, a **MERN Stack Developer** who enjoys building **Full-stack web applications** using modern JavaScript technologies.
 
 🌱 Currently strengthening my skills in **MERN stack & full-stack development**  
 💬 Ask me about **MERN, JavaScript, REST APIs, NoSQL, DBMS, HTML, CSS**  
