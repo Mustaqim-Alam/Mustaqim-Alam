@@ -1,8 +1,7 @@
 <h1 align="center">Hey there! I'm Mustaqim 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> · MERN Stack · Next.js · PostgreSQL · Sequelize
-</p>
+  <b>Full Stack Developer</b> · MERN Stack · Next.js · PostgreSQL 
 
 <p align="center">
   <a href="https://linkedin.com/in/md-mustaqim-alam-67a828241">
@@ -18,11 +17,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with **2.6+ years** of experience building real-world web applications. I started my journey with the MERN stack and I'm currently leveling up with **Next.js**, **PostgreSQL**, and **Sequelize** at my current company.
+I'm a **Full Stack Developer** with **2.6+ years** of experience building real-world web applications. I started my journey with the MERN stack and I'm currently leveling up with **Next.js**, **PostgreSQL** at my current company.
 
 I love writing clean, readable code — the kind that other developers actually enjoy working with. When I'm not building features, I'm probably learning something new, exploring open-source projects, or solving coding challenges.
 
-- 🔭 **Currently working on** — Production-grade apps with Next.js + Sequelize + PostgreSQL
+QL
 - 🌱 **Currently learning** — Next.js App Router, Sequelize ORM, SQL & PostgreSQL, Docker
 - 💬 **Ask me about** — MERN stack, REST APIs, React, Node.js, MongoDB
 - ⚡ **Fun fact** — I transitioned from MongoDB to PostgreSQL and now I love both!
